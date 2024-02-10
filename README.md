@@ -2,9 +2,6 @@
 <img width="1180" alt="Screenshot 2024-02-05 at 6 00 12 PM" src="https://github.com/Shubham0523/Forum-Chat-App/assets/95907789/6b6cc516-308f-4182-9f1b-9ee45a005c46">
 
 
-<img width="1180" alt="Screenshot 2024-02-05 at 7 16 00 PM" src="https://github.com/Shubham0523/Forum-Chat-App/assets/95907789/b1de2d3a-e890-4cd8-bb61-60a5f1c4a3ac">
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
